@@ -1,0 +1,79 @@
+category:
+  name: "Администрация"
+  icon:
+    slot: 16
+    material: COMMAND_BLOCK
+    name: "<gradient:#ff0000:#880000><b>Администрация</b></gradient>"
+    lore:
+      - "&7Особые титулы для персонала"
+      - ""
+      - "&eНажмите, чтобы открыть!"
+  permission: "simpletitles.category.admin"
+  menu:
+    title: "&8Администрация"
+    size: 36
+
+titles:
+  owner:
+    suffix: " <gradient:#aa0000:#ff5555><b>ВЛАДЕЛЕЦ</b></gradient>"
+    permission: "simpletitles.title.owner"
+    item:
+      slot: 10
+      material: NETHER_STAR
+      name: "<gradient:#aa0000:#ff5555><b>Владелец</b></gradient>"
+      lore:
+        - "&7Создатель сервера."
+  dev:
+    suffix: " <gradient:#00aa00:#55ff55><b>РАЗРАБОТЧИК</b></gradient>"
+    permission: "simpletitles.title.dev"
+    item:
+      slot: 11
+      material: COMMAND_BLOCK
+      name: "<gradient:#00aa00:#55ff55><b>Разработчик</b></gradient>"
+      lore:
+        - "&7Технический гений."
+  admin:
+    suffix: " <gradient:#ff5555:#ffaaaa><b>АДМИН</b></gradient>"
+    permission: "simpletitles.title.admin"
+    item:
+      slot: 12
+      material: REDSTONE_BLOCK
+      name: "<gradient:#ff5555:#ffaaaa><b>Админ</b></gradient>"
+      lore:
+        - "&7Управляющий проектом."
+  mod:
+    suffix: " <gradient:#00aaaa:#55ffff><b>МОДЕРАТОР</b></gradient>"
+    permission: "simpletitles.title.mod"
+    item:
+      slot: 13
+      material: DIAMOND_BLOCK
+      name: "<gradient:#00aaaa:#55ffff><b>Модератор</b></gradient>"
+      lore:
+        - "&7Следящий за порядком."
+  helper:
+    suffix: " <gradient:#ffff55:#aaaa00><b>ХЕЛПЕР</b></gradient>"
+    permission: "simpletitles.title.helper"
+    item:
+      slot: 14
+      material: GOLD_BLOCK
+      name: "<gradient:#ffff55:#aaaa00><b>Хелпер</b></gradient>"
+      lore:
+        - "&7Помощник игроков."
+  curator:
+    suffix: " <gradient:#aa00aa:#ff55ff><b>КУРАТОР</b></gradient>"
+    permission: "simpletitles.title.curator"
+    item:
+      slot: 15
+      material: AMETHYST_BLOCK
+      name: "<gradient:#aa00aa:#ff55ff><b>Куратор</b></gradient>"
+      lore:
+        - "&7Ответственный за персонал."
+  builder:
+    suffix: " <gradient:#ffaa00:#ffff55><b>БИЛДЕР</b></gradient>"
+    permission: "simpletitles.title.builder"
+    item:
+      slot: 16
+      material: GRASS_BLOCK
+      name: "<gradient:#ffaa00:#ffff55><b>Билдер</b></gradient>"
+      lore:
+        - "&7Главный строитель сервера."

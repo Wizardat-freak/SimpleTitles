@@ -1,0 +1,81 @@
+category:
+  name: "Мифы"
+  icon:
+    slot: 10
+    material: BOOK
+    name: "<gradient:#ff00ea:#8b00ff><b>Мифы</b></gradient>"
+    lore:
+      - "&7Набор титулов по мифологии"
+      - ""
+      - "&eНажмите, чтобы открыть!"
+  permission: "simpletitles.category.myths"
+  menu:
+    title: "&8Мифы"
+    size: 36
+
+titles:
+  zeus:
+    suffix: " <gradient:#ffff00:#ffaa00><b>ЗЕВС</b></gradient>"
+    permission: "simpletitles.title.zeus"
+    item:
+      slot: 10
+      material: LIGHTNING_ROD
+      name: "<gradient:#ffff00:#ffaa00><b>Зевс</b></gradient>"
+      lore:
+        - "&7Титул бога грома."
+        - ""
+        - "&eНажмите, чтобы выбрать!"
+  hades:
+    suffix: " <gradient:#4a4a4a:#1e1e1e><b>АИД</b></gradient>"
+    permission: "simpletitles.title.hades"
+    item:
+      slot: 11
+      material: WITHER_SKELETON_SKULL
+      name: "<gradient:#4a4a4a:#1e1e1e><b>Аид</b></gradient>"
+      lore:
+        - "&7Титул владыки подземного мира."
+  poseidon:
+    suffix: " <gradient:#00ffff:#0055ff><b>ПОСЕЙДОН</b></gradient>"
+    permission: "simpletitles.title.poseidon"
+    item:
+      slot: 12
+      material: TRIDENT
+      name: "<gradient:#00ffff:#0055ff><b>Посейдон</b></gradient>"
+      lore:
+        - "&7Титул морского владыки."
+  ares:
+    suffix: " <gradient:#ff0000:#aa0000><b>АРЕС</b></gradient>"
+    permission: "simpletitles.title.ares"
+    item:
+      slot: 13
+      material: NETHERITE_SWORD
+      name: "<gradient:#ff0000:#aa0000><b>Арес</b></gradient>"
+      lore:
+        - "&7Титул бога войны."
+  athena:
+    suffix: " <gradient:#aaaaaa:#555555><b>АФИНА</b></gradient>"
+    permission: "simpletitles.title.athena"
+    item:
+      slot: 14
+      material: SHIELD
+      name: "<gradient:#aaaaaa:#555555><b>Афина</b></gradient>"
+      lore:
+        - "&7Титул богини мудрости."
+  apollo:
+    suffix: " <gradient:#ffaa00:#ff5500><b>АПОЛЛОН</b></gradient>"
+    permission: "simpletitles.title.apollo"
+    item:
+      slot: 15
+      material: BOW
+      name: "<gradient:#ffaa00:#ff5500><b>Аполлон</b></gradient>"
+      lore:
+        - "&7Титул бога света."
+  hermes:
+    suffix: " <gradient:#55ff55:#00aa00><b>ГЕРМЕС</b></gradient>"
+    permission: "simpletitles.title.hermes"
+    item:
+      slot: 16
+      material: FEATHER
+      name: "<gradient:#55ff55:#00aa00><b>Гермес</b></gradient>"
+      lore:
+        - "&7Титул вестника богов."

@@ -1,0 +1,79 @@
+category:
+  name: "Игры"
+  icon:
+    slot: 14
+    material: DIAMOND_SWORD
+    name: "<gradient:#00bfff:#0000ff><b>Игры</b></gradient>"
+    lore:
+      - "&7Набор игровых титулов"
+      - ""
+      - "&eНажмите, чтобы открыть!"
+  permission: "simpletitles.category.games"
+  menu:
+    title: "&8Игры"
+    size: 36
+
+titles:
+  steve:
+    suffix: " <gradient:#00ffff:#00bfff><b>СТИВ</b></gradient>"
+    permission: "simpletitles.title.steve"
+    item:
+      slot: 10
+      material: DIAMOND_PICKAXE
+      name: "<gradient:#00ffff:#00bfff><b>Стив</b></gradient>"
+      lore:
+        - "&7Легенда майнинга."
+  mario:
+    suffix: " <gradient:#ff0000:#8b0000><b>МАРИО</b></gradient>"
+    permission: "simpletitles.title.mario"
+    item:
+      slot: 11
+      material: RED_MUSHROOM
+      name: "<gradient:#ff0000:#8b0000><b>Марио</b></gradient>"
+      lore:
+        - "&7Водопроводчик."
+  kratos:
+    suffix: " <gradient:#ff4500:#8b0000><b>КРАТОС</b></gradient>"
+    permission: "simpletitles.title.kratos"
+    item:
+      slot: 12
+      material: IRON_AXE
+      name: "<gradient:#ff4500:#8b0000><b>Кратос</b></gradient>"
+      lore:
+        - "&7Призрак Спарты."
+  doomguy:
+    suffix: " <gradient:#00ff00:#006400><b>DOOMGUY</b></gradient>"
+    permission: "simpletitles.title.doomguy"
+    item:
+      slot: 13
+      material: NETHERITE_HELMET
+      name: "<gradient:#00ff00:#006400><b>Doomguy</b></gradient>"
+      lore:
+        - "&7Истребитель демонов."
+  geralt:
+    suffix: " <gradient:#a9a9a9:#696969><b>ГЕРАЛЬТ</b></gradient>"
+    permission: "simpletitles.title.geralt"
+    item:
+      slot: 14
+      material: IRON_SWORD
+      name: "<gradient:#a9a9a9:#696969><b>Геральт</b></gradient>"
+      lore:
+        - "&7Белый волк."
+  link:
+    suffix: " <gradient:#32cd32:#008000><b>ЛИНК</b></gradient>"
+    permission: "simpletitles.title.link"
+    item:
+      slot: 15
+      material: EMERALD
+      name: "<gradient:#32cd32:#008000><b>Линк</b></gradient>"
+      lore:
+        - "&7Герой времени."
+  pacman:
+    suffix: " <gradient:#ffff00:#ffd700><b>PAC-MAN</b></gradient>"
+    permission: "simpletitles.title.pacman"
+    item:
+      slot: 16
+      material: YELLOW_DYE
+      name: "<gradient:#ffff00:#ffd700><b>Pac-Man</b></gradient>"
+      lore:
+        - "&7Поедатель призраков."

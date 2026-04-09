@@ -1,0 +1,22 @@
+name: SimpleTitles
+version: 2.3
+main: com.wizardatfreak.simpletitles.SimpleTitles
+api-version: "1.20"
+authors: [wizardatfreak]
+description: A simple and beautiful titles plugin
+
+commands:
+  titles:
+    description: Open the titles menu
+    aliases: [title]
+
+permissions:
+  simpletitles.command.menu:
+    description: Allows opening the title menu
+    default: true
+  simpletitles.command.reload:
+    description: Allows reloading the config
+    default: op
+  simpletitles.title.*:
+    description: Grants access to all titles
+    default: false

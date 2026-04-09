@@ -1,0 +1,79 @@
+category:
+  name: "Легенды"
+  icon:
+    slot: 12
+    material: DRAGON_EGG
+    name: "<gradient:#ffa500:#ff4500><b>Легенды</b></gradient>"
+    lore:
+      - "&7Набор легендарных титулов"
+      - ""
+      - "&eНажмите, чтобы открыть!"
+  permission: "simpletitles.category.legends"
+  menu:
+    title: "&8Легенды"
+    size: 36
+
+titles:
+  arthur:
+    suffix: " <gradient:#ffd700:#daa520><b>АРТУР</b></gradient>"
+    permission: "simpletitles.title.arthur"
+    item:
+      slot: 10
+      material: IRON_SWORD
+      name: "<gradient:#ffd700:#daa520><b>Артур</b></gradient>"
+      lore:
+        - "&7Король былого и грядущего."
+  merlin:
+    suffix: " <gradient:#8a2be2:#4b0082><b>МЕРЛИН</b></gradient>"
+    permission: "simpletitles.title.merlin"
+    item:
+      slot: 11
+      material: ENCHANTED_BOOK
+      name: "<gradient:#8a2be2:#4b0082><b>Мерлин</b></gradient>"
+      lore:
+        - "&7Великий маг."
+  lancelot:
+    suffix: " <gradient:#ffffff:#c0c0c0><b>ЛАНСЕЛОТ</b></gradient>"
+    permission: "simpletitles.title.lancelot"
+    item:
+      slot: 12
+      material: SHIELD
+      name: "<gradient:#ffffff:#c0c0c0><b>Ланселот</b></gradient>"
+      lore:
+        - "&7Лучший рыцарь."
+  robin:
+    suffix: " <gradient:#228b22:#006400><b>РОБИН ГУД</b></gradient>"
+    permission: "simpletitles.title.robin"
+    item:
+      slot: 13
+      material: CROSSBOW
+      name: "<gradient:#228b22:#006400><b>Робин Гуд</b></gradient>"
+      lore:
+        - "&7Защитник угнетенных."
+  beowulf:
+    suffix: " <gradient:#b22222:#8b0000><b>БЕОВУЛЬФ</b></gradient>"
+    permission: "simpletitles.title.beowulf"
+    item:
+      slot: 14
+      material: LEATHER_CHESTPLATE
+      name: "<gradient:#b22222:#8b0000><b>Беовульф</b></gradient>"
+      lore:
+        - "&7Победитель чудовищ."
+  dracula:
+    suffix: " <gradient:#dc143c:#8b0000><b>ДРАКУЛА</b></gradient>"
+    permission: "simpletitles.title.dracula"
+    item:
+      slot: 15
+      material: RED_DYE
+      name: "<gradient:#dc143c:#8b0000><b>Дракула</b></gradient>"
+      lore:
+        - "&7Бессмертный вампир."
+  gilgamesh:
+    suffix: " <gradient:#ffebcd:#d2691e><b>ГИЛЬГАМЕШ</b></gradient>"
+    permission: "simpletitles.title.gilgamesh"
+    item:
+      slot: 16
+      material: GOLD_INGOT
+      name: "<gradient:#ffebcd:#d2691e><b>Гильгамеш</b></gradient>"
+      lore:
+        - "&7Царь героев."
